@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/UMDB-Your-Movie-DataBase/static/css/main.14094c57.css",
+    "main.js": "/UMDB-Your-Movie-DataBase/static/js/main.c9de6956.js",
+    "index.html": "/UMDB-Your-Movie-DataBase/index.html",
+    "static/media/search.svg": "/UMDB-Your-Movie-DataBase/static/media/search.560a63e6c7166e798d1a8063eae09ff8.svg",
+    "main.14094c57.css.map": "/UMDB-Your-Movie-DataBase/static/css/main.14094c57.css.map",
+    "main.c9de6956.js.map": "/UMDB-Your-Movie-DataBase/static/js/main.c9de6956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14094c57.css",
+    "static/js/main.c9de6956.js"
+  ]
+}
